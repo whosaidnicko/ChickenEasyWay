@@ -4,13 +4,13 @@ workflows:
     max_build_duration: 120
     instance_type: mac_mini_m2
     integrations:
-      app_store_connect: kuriatnikacces
+      app_store_connect: opakurign
     environment:
       ios_signing:
         provisioning_profiles:
-         - profile: kuqpeprfo
+         - profile: marispqk
         certificates:
-         - certificate: adouagainucertificate
+         - certificate: cgiasnubqoap
       vars:
         BUNDLE_ID: "suqozbciktao.gqasimilkof.buopezb"
         XCODE_PROJECT: "ChickenEasyWay.xcodeproj"
