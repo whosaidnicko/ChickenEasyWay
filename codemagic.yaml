@@ -10,7 +10,7 @@ workflows:
         provisioning_profiles:
          - profile: kuqpeprfo
         certificates:
-         - certificate: kuritaniecertf
+         - certificate: adouagainucertificate
       vars:
         BUNDLE_ID: "suqozbciktao.gqasimilkof.buopezb"
         XCODE_PROJECT: "ChickenEasyWay.xcodeproj"
